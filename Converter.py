@@ -11,9 +11,9 @@ while True:
         print( round(((number - 32) * 5/9), 2))
         break
     elif from_what_convert == 'F' and to_what_convert == 'F' or from_what_convert == 'C' and to_what_convert == 'F':
-        print ('There is nothing to convert, try again')
+        print ('There is nothing to convert. Try again')
         continue
     else :
-        print ('You typed something wrong, try again')
+        print ('You typed something wrong. Try again')
         continue
 
