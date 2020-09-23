@@ -14,6 +14,6 @@ while True:
         print ('There is nothing to convert, try again')
         continue
     else :
-        print ('You typed something wrong, try again')
+        print ('You did something wrong, try again')
         continue
 
